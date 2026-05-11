@@ -43,5 +43,8 @@
     "paths": {
         "mediaGif": "~/.config/caelestia/images/cow.gif",
         "sessionGif": "~/.config/caelestia/images/e60.gif"
+    },
+    "services": {
+        "weatherLocation": "Sion"
     }
 }
