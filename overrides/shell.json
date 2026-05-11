@@ -1,0 +1,47 @@
+{
+    "background": {
+        "desktopClock": {
+            "enabled": true
+        }
+    },
+    "general": {
+        "logo": "~/.config/caelestia/images/bmw.svg"
+    },
+    "launcher": {
+        "hiddenApps": [
+            "vim",
+            "stoken-gui-small",
+            "stoken-gui",
+            "reflector-simple",
+            "qvidcap",
+            "qv4l2",
+            "avahi-discover",
+            "bssh",
+            "bvnc",
+            "eos-update",
+            "eos-quickstart",
+            "eos-log-tool",
+            "eos-apps-info",
+            "code-oss",
+            "cmake-gui",
+            "btop",
+            "yad-settings",
+            "xterm",
+            "welcome",
+            "uxterm",
+            "footclient",
+            "foot-server",
+            "yad-icon-browser",
+            "thunar-bulk-rename",
+            "thunar-settings"
+        ],
+        "showOnHover": false,
+        "useFuzzy": {
+            "wallpapers": true
+        }
+    },
+    "paths": {
+        "mediaGif": "~/.config/caelestia/images/cow.gif",
+        "sessionGif": "~/.config/caelestia/images/e60.gif"
+    }
+}
